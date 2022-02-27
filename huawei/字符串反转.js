@@ -1,0 +1,3 @@
+//麻烦🐔试都给我这种题目...
+let str = readline()
+console.log(str.split('').reverse().join(''))
