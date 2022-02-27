@@ -9,4 +9,5 @@ let maxSubArray = function(nums) {
         }
         max = Math.max(max, sum)
     }
+    return max
 }
