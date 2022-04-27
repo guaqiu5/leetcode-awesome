@@ -17,6 +17,5 @@ int main() {
         cin >> n; // 数组长度
         vector<int> ls(n); // 初始化vector
         for (int i = 0; i < n; i++) cin >> ls[i];// vector赋值
-
     }
 }

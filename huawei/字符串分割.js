@@ -31,7 +31,6 @@ while (str = readline()) {
             length--
         }
         level++
-
         console.log(arr.join(''))
     }
     if (length > 0) {
